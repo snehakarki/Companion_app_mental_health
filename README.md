@@ -1,6 +1,6 @@
 # mental_health_tracker
 
-A new Flutter project.
+This is a mini companion app that provides users with basic utilities to maintain their mental well-being . The utilities inclue a water reminder, a to-do list, breathing exercise, and additional facility to book a therepist. Cloud Firestore(for real-time database) and Authentication services of Firebase are also incorparated.
 
 ## Getting Started
 
